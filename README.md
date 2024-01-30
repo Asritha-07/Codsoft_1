@@ -1,5 +1,5 @@
 # Codsoft_1
-#calculator.py
+#calculator.py 
 def calculator():
     while True:
         print("\nOperations: \n1. Addition (+)\n2. Subtraction (-)\n3. Multiplication (*)\n4. Division (/)\n5. Exit")
